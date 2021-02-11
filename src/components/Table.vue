@@ -1,0 +1,19 @@
+<template>
+  <table>
+    <thead>
+      <tr>
+        <th>規模/ロール</th>
+        <th>期間</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>summary</td>
+        <td rowspan="4"></td>
+      </tr>
+      <tr><td>phase</td></tr>
+      <tr><td>内容</td></tr>
+      <tr><td>実績</td></tr>
+    </tbody>
+  </table>
+</template>
