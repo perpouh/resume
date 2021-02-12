@@ -1,0 +1,278 @@
+{
+  "summary": "フリーランスでの活動、スタートアップ企業への参加、SESでの大規模案件への参加など、幅広い経験があります。それぞれの現場で設計実装テストデザインなど、幅広く多くのことを経験させていただきました。何にでも興味を持つ分、気移りしやすい側面があります。\\nプログラムを書くこと自体は好きですが、プログラムはあくまで手段であり、そのものにこだわる気持ちは特にありません。システム開発を通して、人に貢献していけたらと思っています。",
+  "skill": {
+    "os": [
+      "CentOS",
+      "MacOS"
+    ],
+    "language_framework": [
+      "Vue.js",
+      "Ruby on Rails",
+      "PHP",
+      "CakePHP2.x",
+      "jQuery"
+    ],
+    "middleware": [
+      "MySQL",
+      "Docker",
+      "Vagrant"
+    ],
+    "tools": [
+      "GitHub",
+      "Backlog"
+    ]
+  },
+  "carrer": [
+    {
+      "no": 1,
+      "start_ym": "2012-04",
+      "end_ym": "2012-09",
+      "summary": "仙台市内のIT企業にてOJTおよびOff-JTを受ける。その中で既存iPhoneアプリと同機能のAndroidアプリ版を制作。",
+      "role": "プログラマ",
+      "phase_in_charge": "機能洗い出し、設計、実装、テスト",
+      "business_content": [
+        "既存アプリの調査、仕様の洗い出し",
+        "Androidアプリとしての内部設計",
+        "コーディング、テスト"
+      ],
+      "achievement": "拙いながら、必要十分程度の実装を期間内に完了。",
+      "development_environment": [
+        "Windows7",
+        "backlog",
+        "Eclipse",
+        "Android2.3"
+      ],
+      "scale": "2名+メンター2名"
+    },
+    {
+      "no": 2,
+      "start_ym": "2017-10",
+      "end_ym": "2018-11",
+      "summary": "WordPressを使った加盟店舗検索・予約システムの改修",
+      "role": "プログラマ",
+      "phase_in_charge": "設計、実装",
+      "business_content": [
+        "マーケター、デザイナーから仕様の聞き取り",
+        "デザイナーと相互に調整しながらの機能実装",
+        "Googleマップと連携した複雑な検索の実現"
+      ],
+      "achievement": "お客さん、マーケターさん、デザイナーさんで相談して作成されたXDファイルからリバースエンジニアリングのような工程を経ての機能実装。正直「ゼロから作った方が早い」と何度叫びそうになったか知れない。",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "FTP",
+        "SublimeText",
+        "WordPress"
+      ],
+      "scale": "3名（うちマーケター1名、デザイナー1名）"
+    },
+    {
+      "no": 3,
+      "start_ym": "2017-11",
+      "end_ym": "2018-03",
+      "summary": "WordPressを使った企業サイトの改修",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "デザイナーが作成したHTMLの当て込み",
+        "javascriptなど一部機能の修正",
+        "メンテナンス表示、サーバーファイル修正など"
+      ],
+      "achievement": "主にデザイナーさんの作業の手伝いとして、WordPressへのデザインの反映やちょっとした修正（GoogleMapの埋め込みなど）、メンテナンス表示の切り替え、サーバーへのデプロイなどを行いました。",
+      "development_environment": [
+        "MacOS",
+        "FTP",
+        "SublimeText",
+        "WordPress"
+      ],
+      "scale": "3名（うちデザイナー2名）"
+    },
+    {
+      "no": 4,
+      "start_ym": "2018-01",
+      "end_ym": "2018-03",
+      "summary": "学校向け授業配信およびレポート提出システム構築",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "割り振られた画面の実装、単体テスト、デザイン当て込み",
+        "結合テスト、バグ修正"
+      ],
+      "achievement": "実装の遅れや不具合の発生で混乱する中、折衝担当と開発リーダーの間で\"同じ単語がそれぞれ別の意味で用いられている\"のを発見、連携ミスの原因を指摘しました。同じ会社内にあっても非エンジニア・エンジニア間あるいはデザイナー・エンジニア間、エンジニア同士であっても親しんだ言語や環境によって言葉の意味が変わってしまうのだと再度痛感しました。",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "Ruby on Rails",
+        "Vagrant"
+      ],
+      "scale": "8名（うち顧客折衝1名、デザイナー1名）"
+    },
+    {
+      "no": 5,
+      "start_ym": "2018-03",
+      "end_ym": "2018-04",
+      "summary": "記録が殆ど残っていなかったので不明。",
+      "role": "プログラマ",
+      "phase_in_charge": "設計、実装、試験",
+      "business_content": [
+      ],
+      "achievement": "",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "Laravel",
+        "Vagrant"
+      ],
+      "scale": ""
+    },
+    {
+      "no": 6,
+      "start_ym": "2018-07",
+      "end_ym": "2020-03",
+      "summary": "既存PHPシステムに対する機能追加および改修、保守対応",
+      "role": "プログラマ",
+      "phase_in_charge": "設計、実装、テスト",
+      "business_content": [
+        "追加する機能の設計、実装、テスト",
+        "改修作業、テスト",
+        "保守対応"
+      ],
+      "achievement": "古いPHP環境だったためフレームワークが使用できず、テンプレートエンジン以外はほぼ素のPHPで書くことになりました。特に追加開発では、作業員もマネージャもフレームワークがない状態での開発に慣れていなかったため見積もり漏れなどのトラブルが多発しましたが、その中でボトルネックの発見と対処に尽力しました。",
+      "development_environment": [
+        "Windows7(リモートデスクトップ)",
+        "SVN",
+        "PHP"
+      ],
+      "scale": "4名(※最多時。最少時2名)"
+    },
+    {
+      "no": 7,
+      "start_ym": "2018-10",
+      "end_ym": "2018-11",
+      "summary": "キャンペーン用LP制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "PhotoShopファイルからの素材の切り出し",
+        "HTML、CSS、jsでスロットマシン風の抽選UIの実装"
+      ],
+      "achievement": "Photoshopファイル(.psd)で提供された素材からLPの制作を行いました。",
+      "development_environment": [
+        "MacOS",
+        "PhotoShop",
+        "PHP",
+        "jQuery",
+        "CSS"
+      ],
+      "scale": "2名（うち1名は折衝担当）"
+    },
+    {
+      "no": 8,
+      "start_ym": "2018-11",
+      "end_ym": "2019-01",
+      "summary": "有害鳥獣罠監視装置の管理用Webアプリケーションの開発",
+      "role": "プログラマ",
+      "phase_in_charge": "設計、実装、テスト",
+      "business_content": [
+        "画面定義書の作成",
+        "担当画面の実装と単体テスト",
+        "結合試験とバグ修正"
+      ],
+      "achievement": "jQueryで記述していたフロントエンドのソースコードが嵩み、スパゲティソースと化した挙げ句にバグが頻発。後にこの案件を例にしてフロントエンドへのフレームワーク導入を打診、調査と学習を開始するきっかけとなった。",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "Ruby on Rails",
+        "jQuery",
+        "Docker"
+      ],
+      "scale": "4人（うち折衝1人、デザイナー1人）"
+    },
+    {
+      "no": 9,
+      "start_ym": "2019-08",
+      "end_ym": "継続中",
+      "summary": "保育園向け請求管理システム構築",
+      "role": "プログラマ",
+      "phase_in_charge": "設計、実装、テスト",
+      "business_content": [
+        "画面設計書の作成",
+        "実装、単体テスト",
+        "結合テスト、バグ修正",
+        "追加改修対応",
+        "テスト環境作成"
+      ],
+      "achievement": "Ruby on Railsを用いた開発の他、AWS(Route53, Fargate, EC2, RDS等)でのテスト環境の作成などを行いました。",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "Ruby on Rails",
+        "jQuery",
+        "Docker",
+        "AWS"
+      ],
+      "scale": "12名（※最多時。最少時3名）"
+    },
+    {
+      "no": 10,
+      "start_ym": "2020-03",
+      "end_ym": "2020-05",
+      "summary": "BtoBマッチングプラットフォーム制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装、テスト",
+      "business_content": [
+        "Vue.jsを導入してのフロントエンド開発"
+      ],
+      "achievement": "Vue.jsが導入され、フロントエンドにある程度の秩序がもたらされた。再利用しない部分を無駄に外部化してデータの受け渡しが煩雑になる、逆に全く分割せず一画面千行を一ファイルに書いてしまうなど、jQuery時代とは別の問題が頻発した。",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "Ruby on Rails",
+        "Vue.js",
+        "Docker"
+      ],
+      "scale": "11名"
+    },
+    {
+      "no": 11,
+      "start_ym": "2020-05",
+      "end_ym": "2020-10",
+      "summary": "ECサイト制作2件",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+      ],
+      "achievement": "",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "EC-CUBE",
+        "Docker"
+      ],
+      "scale": "4名（うちマーケター2名、デザイナー1名）"
+    },
+    {
+      "no": 12,
+      "start_ym": "2020-12",
+      "end_ym": "2020-01",
+      "summary": "既存アプリEOL対応",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "古いアプリケーションのOSおよびパッケージのバージョンアップ対応",
+        "AWSEC2を用いた試験環境の作成",
+        "環境構築手順書の作成"
+      ],
+      "achievement": "",
+      "development_environment": [
+        "MacOS",
+        "git",
+        "EC-CUBE",
+        "Docker",
+        "AWS",
+        "EC2"
+      ],
+      "scale": "4名（うちマーケター2名、デザイナー1名）"
+    }
+  ]
+}
