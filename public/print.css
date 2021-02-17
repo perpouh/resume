@@ -1,0 +1,25 @@
+@page { size: A4 portrait} /* A4横 */
+
+body {
+  -webkit-print-color-adjust: exact;
+}
+
+table{
+  width: 100%;
+}
+
+thead{
+  background-color: #ddd!important;
+}
+
+th{
+  text-align: left;
+}
+
+td{
+  vertical-align: top;
+}
+
+td:first-of-type{
+  width: 75%;
+}
