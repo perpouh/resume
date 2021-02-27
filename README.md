@@ -30,6 +30,8 @@ docker start resume
 
  ## ライセンス
 
+MIT
+
 どうぞご自由に使ってください。resume.jsonを書き換えれば動くはずです。  
 jsonの項目は
 
@@ -44,3 +46,7 @@ jsonの項目は
 ## Contributing
 
 歓迎します。特にscreenの方のCSSとか。
+
+## 免責事項
+
+Chrome以外で動作確認していません。
