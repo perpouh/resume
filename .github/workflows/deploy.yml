@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  - push
+  - workflow_dispatch
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run: npm install && npx vuepress build
+    - name: Deploy
+      uses: perpouh/actions-gh-pages@v3
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        publish_dir: ./docs
