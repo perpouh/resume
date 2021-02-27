@@ -23,3 +23,7 @@ td{
 td:first-of-type{
   width: 75%;
 }
+
+.screen_only{
+  display:none;
+}

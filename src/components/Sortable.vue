@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="screen_only">
     <input type="search" placeholder="検索" v-model="searchWord" @keydown.enter="send">
     <select v-model="sortKey" @change="sort">
       <option>ソート順</option>

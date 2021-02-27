@@ -45,6 +45,398 @@
       "scale": "2名+メンター2名"
     },
     {
+      "no": 13,
+      "start_ym": "2012-10",
+      "end_ym": "2020-12",
+      "summary": "GPSログ取得&想定CO2排出量計算アプリ制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "コーディング、テスト"
+      ],
+      "achievement": "",
+      "development_environment": [
+        "MacOS",
+        "Android2.3",
+        "Eclipse"
+      ],
+      "scale": "4名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2013-01",
+      "end_ym": "2013-03",
+      "summary": "P2Pを使った遠隔手書きコミュニケーションアプリ制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        ""
+      ],
+      "achievement": "主にキャンバス部分を担当。ペンの色や太さの変更、消しゴムの動作などを作成。",
+      "development_environment": [
+        "Windows7",
+        "Backlog",
+        "Eclipse",
+        "Android2.3"
+      ],
+      "scale": "4名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2012-05",
+      "end_ym": "2012-06",
+      "summary": "携帯キャリア様サービスサイト改修",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        ""
+      ],
+      "achievement": "主に通知周りのjavascript改修を担当",
+      "development_environment": [
+        "Windows7",
+        "git",
+        "Eclipse",
+        "javascript",
+        "CakePHP2.x"
+      ],
+      "scale": "15人"
+    },
+    {
+      "no": 13,
+      "start_ym": "2012-07",
+      "end_ym": "2020-08",
+      "summary": "既存WebシステムのAPIとAndroidアプリのプロトタイプ作成",
+      "role": "プログラマ",
+      "phase_in_charge": "設計、実装",
+      "business_content": [
+        "サーバー設定",
+        "API作成",
+        "Androidアプリ作成"
+      ],
+      "achievement": "サーバー設定からAPI作成、Androidアプリ作成までを包括して作業",
+      "development_environment": [
+        "CentOS5系",
+        "CakePHP2系",
+        "Android2.3",
+        "Windows7"
+      ],
+      "scale": "1名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2012-09",
+      "end_ym": "2020-09",
+      "summary": "XP向けVBアプリの7以降テスト",
+      "role": "テスター",
+      "phase_in_charge": "テスト",
+      "business_content": [
+        "テスト"
+      ],
+      "achievement": "",
+      "development_environment": [
+        "Windows7"
+      ],
+      "scale": "4名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2012-10",
+      "end_ym": "2012-12",
+      "summary": "短歌検索サイト作成",
+      "role": "顧客折衝、インフラ構築、設計、プログラム",
+      "phase_in_charge": "発案〜制作",
+      "business_content": [
+        "顧客折衝",
+        "要件定義",
+        "基本設計",
+        "詳細設計",
+        "インフラ構築",
+        "コーディング"
+      ],
+      "achievement": "知人からの依頼で短歌および歌集の登録・検索サイトを制作、要件定義からインフラ構築、コーディングまでを担当しました。",
+      "development_environment": [
+        "Windows7",
+        "FreeBSD",
+        "CakePHP1.x"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2014-01",
+      "end_ym": "2014-02",
+      "summary": "ポータルサイト改修および機能拡充",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "",
+      "development_environment": [
+        "PHP5",
+        "FTP",
+        "Windows7"
+      ],
+      "scale": "4名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2014-03",
+      "end_ym": "2020-09",
+      "summary": "CMS構築",
+      "role": "詳細設計、プログラミング、インフラ構築、運用",
+      "phase_in_charge": "設計〜運用",
+      "business_content": [
+        "オペレーションシステムの検証・導入",
+        "セキュリティ管理",
+        "セキュリティ体制整備",
+        "テスティング",
+        "ネットワーク構築",
+        "DB関連サーバー 設計・構築",
+        "ネットワーク監視",
+        "プログラミング",
+        "基本設計",
+        "詳細設計"
+      ],
+      "achievement": "詳細設計、アプリケーションサーバー構築、メールサーバー構築、DBサーバー構築、DNS設定、セキュリティ設定、アプリケーション制作、保守までを包括して担当しました。",
+      "development_environment": [
+        "FuelPHP1.3",
+        "CentOS5",
+        "POP/SMTP",
+        "MySQL",
+        "DNS"
+      ],
+      "scale": "3名（うち1名企画、1名はSEO担当）"
+    },
+    {
+      "no": 13,
+      "start_ym": "2014-06",
+      "end_ym": "2014-11",
+      "summary": "派遣求人サイトの設計及び構築",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "テスティング",
+        "ネットワーク構築",
+        "DB関連ネットワーク設計・構築",
+        "プログラミング",
+        "詳細設計"
+      ],
+      "achievement": "",
+      "development_environment": [
+        "Linux",
+        "PHP5.3",
+        "FuelPHP",
+        "MySQL"
+      ],
+      "scale": "3名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2020-12",
+      "end_ym": "2020-01",
+      "summary": "製品FAQサイトの設計および環境構築、プログラミング",
+      "role": "設計、プログラム",
+      "phase_in_charge": "設計、環境構築、プログラム",
+      "business_content": [
+        "要件を実現するためのフレームワーク機能の調査",
+        "環境構築",
+        "プラグイン等調査",
+        "新人さんサポート"
+      ],
+      "achievement": "派遣先にてFuelPHPを初めて導入するとのことだったのでその手伝いと、新人さんのコードレビューやコーディングのサポートを行いました。",
+      "development_environment": [
+        "Windows7",
+        "git",
+        "FuelPHP",
+        "jQuery",
+        "PostgreSQL"
+      ],
+      "scale": "7名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2014-11",
+      "end_ym": "2014-12",
+      "summary": "フィード購読アプリ制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "RSS解析、広告の追加、mBassを用いたプッシュ通知などの実装を行いました。",
+      "development_environment": [
+        "Android4.0",
+        "OSX(Mac)"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2014-12",
+      "end_ym": "2014-12",
+      "summary": "服薬管理システムのプロトタイプ作成",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "PHPを用いたソケットサーバーの作成"
+      ],
+      "achievement": "BLEとソケットサーバー、Androidアプリを用いた服薬管理システムのプロトタイプ作成に参加、ソケットサーバーの実装を担当しました。",
+      "development_environment": [
+        "PHP"
+      ],
+      "scale": "2名（全体不明）"
+    },
+    {
+      "no": 13,
+      "start_ym": "2015-02",
+      "end_ym": "2015-03",
+      "summary": "効果予測シミュレーションサイトA PI制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "",
+      "development_environment": [
+        "OSX(Mac)",
+        "PHP Zend Framwork",
+        "GoogleCloud Strage"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2015-04",
+      "end_ym": "2015-07",
+      "summary": "派遣管理システムAPI作成",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "",
+      "development_environment": [
+        "OSX(Mac)",
+        "PHP",
+        "CakePHP2.x"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2015-05",
+      "end_ym": "2015-06",
+      "summary": "カード会員申込みおよび管理システム改修",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "",
+      "development_environment": [
+        "OSX(Mac)",
+        "PHP"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2015-08",
+      "end_ym": "2015-11",
+      "summary": "工業製品見積もり・発注システム改修",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "",
+      "development_environment": [
+        "OSX(Mac)",
+        "Java1.7",
+        "JSP",
+        "Tomcat"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2015-12",
+      "end_ym": "2015-12",
+      "summary": "解析データバージョン管理システム制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "",
+      "development_environment": [
+        "OSX(Mac)",
+        "PHP",
+        "Zend Framwork"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2016-01",
+      "end_ym": "2016-03",
+      "summary": "大学様向け授業収録配信及び授業管理システム",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [
+        "サーバー設定",
+        "技術調査",
+        "フレームワーク改造"
+      ],
+      "achievement": "派遣先にて、フレームワーク導入および要件実現のための調査と設定、実装を行いました。CakePHPに不慣れな人が多い現場だったため、特に年の近い作業員から「先生」と呼ばれてトラブル対応に回っていました。",
+      "development_environment": [
+        "Windows 7",
+        "PHP",
+        "CakePHP2.x"
+      ],
+      "scale": "25名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2016-06",
+      "end_ym": "2016-07",
+      "summary": "資料請求・入出庫・在庫管理システム制作",
+      "role": "プログラマ",
+      "phase_in_charge": "実装",
+      "business_content": [],
+      "achievement": "",
+      "development_environment": [
+        "Windows 7",
+        "PHP",
+        "CakePHP2.x",
+        "WindowsServer"
+      ],
+      "scale": "2名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2016-12",
+      "end_ym": "2017-02",
+      "summary": "飲料メーカー様向け表示現行作成支援システム作成",
+      "role": "プログラマ",
+      "phase_in_charge": "実装、テスト",
+      "business_content": [
+        "JSFを用いた社内システム制作"
+      ],
+      "achievement": "熟練のバックエンドエンジニアさんが多く、Javaではあまりお役に立てなかったものの、CSSによる動作の不具合の発見と修正については褒めていただきました。",
+      "development_environment": [
+        "JSF",
+        "Oracle WebLogic Server",
+        "Windows7"
+      ],
+      "scale": "4名"
+    },
+    {
+      "no": 13,
+      "start_ym": "2017-04",
+      "end_ym": "2017-06",
+      "summary": "確定申告支援Webアプリケーション開発",
+      "role": "プログラマ",
+      "phase_in_charge": "実装、テスト",
+      "business_content": [
+        "JSFを用いたWebシステム制作"
+      ],
+      "achievement": "",
+      "development_environment": [
+        "JSF",
+        "Grassfish",
+        "Windows7"
+      ],
+      "scale": "20名"
+    },
+    {
       "no": 2,
       "start_ym": "2017-10",
       "end_ym": "2018-11",
@@ -114,8 +506,7 @@
       "summary": "記録が殆ど残っていなかったので不明。",
       "role": "プログラマ",
       "phase_in_charge": "設計、実装、試験",
-      "business_content": [
-      ],
+      "business_content": [],
       "achievement": "",
       "development_environment": [
         "MacOS",
@@ -240,8 +631,7 @@
       "summary": "ECサイト制作2件",
       "role": "プログラマ",
       "phase_in_charge": "実装",
-      "business_content": [
-      ],
+      "business_content": [],
       "achievement": "",
       "development_environment": [
         "MacOS",

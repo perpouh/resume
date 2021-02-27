@@ -21,7 +21,7 @@
     </section>
     <section>
       <carrer-table v-for="carrer in disp_carrer" :key="carrer.no" :carrer="carrer"></carrer-table>
-      <p v-if="!carrer">検索結果はありません。</p>
+      <p v-if="!disp_carrer">検索結果はありません。</p>
     </section>
   </article>
 </template>
